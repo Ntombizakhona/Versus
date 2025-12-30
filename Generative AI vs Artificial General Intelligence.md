@@ -69,3 +69,17 @@ Many people worry that AI, especially AGI, might lead to job loss or even pose a
 GenAI is your creative sidekick, helping you accomplish tasks faster and more efficiently. AGI, on the other hand, is a futuristic concept, a machine that could think, learn, and reason like a human. While GenAI is here now, reshaping how we work and create, AGI remains a dream for the future.
 
 For now, embrace GenAI as a powerful tool, and don’t worry about robots taking over the world: at least, not yet!
+
+
+too.**
+
+---
+# The Original
+
+**Blog:** [Versus](https://ntombizakhona.hashnode.dev/)
+<br>
+**Article Link:** [Generative AI vs Artificial General Intelligence](https://ntombizakhona.hashnode.dev/generative-ai-vs-artificial-general-intelligence)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://hashnode.com/@ntombizakhona)
+<br>
+**04 December 2024**
