@@ -17,3 +17,5 @@ This blog is designed with beginners in mind. If you're:
 - Seeking context before diving deeper into technical topics
 
 ...then you're in the right place.
+
+[The Versus Blog](https://ntombizakhona.hashnode.dev/)
