@@ -213,7 +213,7 @@ Most cloud developers eventually learn **both**.
 
 **Blog:** [VERSUS](https://ntombizakhona.hashnode.dev/)
 <br>
-**Article Link:** [Python vs JavaScript]()
+**Article Link:** [Python vs JavaScript](https://ntombizakhona.hashnode.dev/python-vs-javascript)
 <br>
 Originally Published by [Ntombizakhona Mabaso](https://hashnode.com/@ntombizakhona)
 <br>
