@@ -176,7 +176,7 @@ When you're working in a terminal, **Ctrl + C** tells the currently running prog
 
 **Blog:** [VERSUS](https://ntombizakhona.hashnode.dev/)
 <br>
-**Article Link:** [Ctrl C on Windows vs Ctrl C in Command Line]()
+**Article Link:** [Ctrl C on Windows vs Ctrl C in Command Line](https://ntombizakhona.hashnode.dev/ctrl-c-on-windows-vs-ctrl-c-in-command-line)
 <br>
 Originally Published by [Ntombizakhona Mabaso](https://hashnode.com/@ntombizakhona)
 <br>
